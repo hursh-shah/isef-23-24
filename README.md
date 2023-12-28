@@ -1,3 +1,3 @@
-# isef-23-24
+# synopsys-23-24
 
 quantum W
